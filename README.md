@@ -1,6 +1,8 @@
 ## Hi there 👋
 Name Maggie Lane 
 username MaggieLane
+CS 2400
+Section 109 fall 
 <!--
 **MaggieLane/MaggieLane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
